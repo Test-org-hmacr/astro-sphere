@@ -1,5 +1,7 @@
 ![Astro Sphere Lighthouse Score](_astrosphere.jpg)
 
+Editing README.md to create a pull request which eventually should trigger a deployment on Appwrite.
+
 Astro Sphere is a static, minimalist, lightweight, lightning fast portfolio and blog theme based on my personal website.
 
 It is primarily Astro, Tailwind and Typescript, with a very small amount of SolidJS for stateful components.
