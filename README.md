@@ -1,6 +1,6 @@
 ![Astro Sphere Lighthouse Score](_astrosphere.jpg)
 
-Editing README.md to create a pull request which eventually should trigger a deployment on Appwrite - update 2.
+Editing README.md to create a pull request which eventually should trigger a deployment on Appwrite - update 3.
 
 Astro Sphere is a static, minimalist, lightweight, lightning fast portfolio and blog theme based on my personal website.
 
